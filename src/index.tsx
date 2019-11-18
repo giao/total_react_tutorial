@@ -1,9 +1,11 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
+import { Header } from './header';
 
 ReactDOM.render(
 	<div>
-		<h1>Testing</h1>
+		<Header text="Your mama" />
+		<Header text="Ta mère en bikini" />
 		<p>this is a paragraph</p>
 		<a href="#">Click me</a>
 	</div>,
