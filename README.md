@@ -9,3 +9,14 @@ https://www.youtube.com/watch?v=nCoQg5qbLcY&t=2480s
 # First module
 
 1. header.tsx
+
+# 2nd component
+
+1. custom-date.tsx
+2. getDate()
+
+Function works (alert proves it), but no state so button does not work
+
+# 2nd component (introducing states)
+
+WIP
